@@ -17,19 +17,14 @@
 - So, the plan for Day 3 is to visit the HRM and CRM (Hot and Cold Rolling Mills). I am so eager to see how steel undergoes processing to become a finished product.
 
 ## Day 3 - (03 / 01 / 2026)
-![[Hot Rolled Steel Process.png]]
 - On the actual day of the planned visit, I really couldn't believe my eyes.
-    
 - The machines were so big. I went blank once I entered the HRM. Even though the Safety Engineering department guided me well, I was blank on whom to ask about these enormous machines, what they did, and a lot more.
-    
 - At first, I saw a banner which explained the complete workflow of this HRM, starting from the Slab Yard.
-    
 - I saw a few slabs which were huge in size, likely weighing several tons. At first, they were a dull white color before being loaded into the furnace. The autonomous movement of the slabs grabbed my attention. While the slab was being loaded, from a particular view, I was able to see the complete furnace.
-    
 - It was loaded with 3–4 slabs at a time, and the temperature must have been very high. For the first time in my life, I saw the color of LAVA in reality.
-    
 - I searched for some officials to interact with, but they were busy working, so I didn't want to interrupt them. I waited for a while, and suddenly, that moment came.
-    
 - A huge, hot slab came out of the furnace; the luminosity of the slab was an unforgettable experience.
-    
 - The hot slab continued to be... (I'll complete it tomorrow)
+
+## Day 4 (Sunday - Holiday)
+- Documented all the progress.
