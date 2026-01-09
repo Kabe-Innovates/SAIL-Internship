@@ -24,7 +24,35 @@
 - It was loaded with 3–4 slabs at a time, and the temperature must have been very high. For the first time in my life, I saw the color of LAVA in reality.
 - I searched for some officials to interact with, but they were busy working, so I didn't want to interrupt them. I waited for a while, and suddenly, that moment came.
 - A huge, hot slab came out of the furnace; the luminosity of the slab was an unforgettable experience.
-- The hot slab continued to be... (I'll complete it tomorrow)
+- The hot slab continued to pass through the de‑scalar, roughing mill, stecket mill, down‑cooler, and finally the coils/sheets were stored in the coil yard.
+- Then the CRM visit covered the entire cold‑rolling process for steel and the subsequent post‑processing of stainless steel.
 
 ## Day 4 (Sunday - Holiday)
-- Documented all the progress.
+- I used this day to document everything I saw and to record my running notes from the plant visit.
+
+## Day 5
+- It was the most exciting day of my internship. I was so curious about what they would teach me and in what way I was going to get industry exposure.
+- While entering the C&IT dept block, I felt nervous, but anyway, I managed to remain calm.
+- I was instructed to wait in the conference hall, which was silent. 
+- A madam came to me and briefly explained what SSP does and the departments in SSP. She handed over a bunch of sheets, which were the "101" about C&IT, departments in SSP, and the specifications of the devices and servers they use.
+- After a while, Annapurna Rao Sir came. The conference hall felt like an interview hall when he sat exactly straight before me at that round table.
+- This made me experience what a one-on-one session would feel like.
+- At the moment I was thinking about this, he started to ask questions about me, why I came for an internship at SSP, and what I had done in the first 4 days of my internship.
+- Later, we discussed the plant visit, and he explained things even more clearly than the in-plant employees. I blended my observations with his words, which helped me understand things well.
+- At one moment, he suddenly asked, "Okay Kabelan, why do we need a dept called C&IT?"
+- Yeah, the question was simple and straight, but at that moment, I wasn't able to pinpoint the exact answer with all valid points. (I realized at that moment that even if you know the answer, you can't answer until or unless you understand it and know the framework to answer the questions).
+- I gave reasons X, Y, and Z, but the answer he needed was a simple "A, B, C," which I failed to provide.
+- Then he clearly explained in a well-detailed manner why an industry needs automation and a C&IT dept. 
+- Then I answered the question using a random board I saw during the plant visit, which said "Smart Work -> Productivity -> Profit."
+- He appreciated this answer, which brought our discussion to the next topic: the role of C&IT in increasing productivity and in other depts.
+- Simply put, this discussion enabled me to experience the role of computers in the industry.
+## Yet to be completed
+```markdown
+Day 6
+- Talk with Saravana Pandiyan Sir V
+- Intro to C&IT and all other stuffs
+Day 7
+- Talk with Network Manager
+Day 8 & 9
+- Documenting jobs and gathering all backlogs
+```
