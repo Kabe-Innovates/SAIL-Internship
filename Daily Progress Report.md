@@ -53,6 +53,7 @@ Day 6
 - Intro to C&IT and all other stuffs
 Day 7
 - Talk with Network Manager
-Day 8 & 9
+Day 8, 9 & 10
 - Documenting jobs and gathering all backlogs
+- Holidays due to official reasons
 ```
