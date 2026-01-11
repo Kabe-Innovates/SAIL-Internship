@@ -56,4 +56,5 @@ Day 7
 Day 8, 9 & 10
 - Documenting jobs and gathering all backlogs
 - Holidays due to official reasons
+Day 11(Sunday - Holiday)
 ```
