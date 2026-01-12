@@ -46,15 +46,37 @@
 - Then I answered the question using a random board I saw during the plant visit, which said "Smart Work -> Productivity -> Profit."
 - He appreciated this answer, which brought our discussion to the next topic: the role of C&IT in increasing productivity and in other depts.
 - Simply put, this discussion enabled me to experience the role of computers in the industry.
+
+## Day 6
+
+- On Day 6, me and Saravana Pandian Sir were **discussed** C&IT. Today I felt confident because I **knew** the basics and foundations **of** what we **were going to** talk **about** today.
+    
+- We **discussed** the activities and facilities of the C&IT dept.
+    
+- On Day 6, the talk was mostly **technical**; we often discussed **from a** technical perspective rather than just theoretically understanding what is what.
+    
+- This talk mainly **focused** on the various sectors involved in the activities and facilities of the C&IT dept, i.e., **Payroll** Systems, Financial Accounting, Sales Accounting, and Material Management **Systems**.
+    
+
+### Outcome of Day 5 & 6 Talk
+
+- Gained real-time industry **interaction** exposure.
+    
+- Learnt about various systems like **Payroll**, Material Management, etc.
+    
+- Mainly - What if computation was not there in **these kinds** of industries? (Leads to lack of consistency, eventually affects productivity, and hence **affects the profit**).
+    
+- More than profit, the customer's trust may **break** if we fail to be consistent.
+
 ## Yet to be completed
 ```markdown
-Day 6
-- Talk with Saravana Pandiyan Sir V
-- Intro to C&IT and all other stuffs
 Day 7
 - Talk with Network Manager
 Day 8, 9 & 10
 - Documenting jobs and gathering all backlogs
 - Holidays due to official reasons
 Day 11(Sunday - Holiday)
+
+Day 12
+- Material Management System - A Talk
 ```
