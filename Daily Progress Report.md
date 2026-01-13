@@ -1,3 +1,4 @@
+# Day-by-Day progress of my Internship at SSP (Salem Steel Plant)
 ## Day 1 - (01 / 01 / 2026)
 - I completed the joining formalities by meeting the designated in-charges and applied for my Gate Pass.
 
@@ -62,6 +63,7 @@
 - More than profit, the customer's trust may **break** if we fail to be consistent.
 
 ## Day 7
+
 - Unlike all other days, on Day 7, I saw what I read in books for the first time **IRL**.
 - Today, I got the opportunity to interact with the Network Manager of SSP.
 - A subject **about** which I **had** the most questions while studying is Computer Networks. Back in my 2nd Semester when I enrolled **in** the subject "COMPUTER NETWORKS," I **thought** it would be about LANs, Modems, and switches.
@@ -74,15 +76,36 @@
     2. How to provide security for an industry network.
 
 ## Day 8, 9, 10 & 11
+
 - Documenting jobs and gathering all backlogs
 - Holidays due to official reasons
 - Day 11(Sunday - Holiday)
 
-## Yet to be completed
-```markdown
-Day 12
-- Material Management System - A Talk
-  
-Day 13
-- Server Room Visit (OwO)
-```
+## Day 12
+
+- On Day 12, I learned about the **Material Management System**.
+- It is a critical ERP module at **the** Salem Steel Plant.
+- What? What? I'm a CS Student; why **do** I have to learn these things?
+- Slowly, I came to understand **that it** is nothing but **an** Inventory Database & Workflow Automation System.
+- Before any transaction happens, the system needs static data.
+    1. **Material Master:** A database of every item the plant uses.
+    2. **Vendor Master:** A database of all approved suppliers.
+    3. **Vendor Registration & Evaluation:** Logic to track supplier performance.
+- **Architecture:** It utilizes the plant's centralized **Oracle 11g RAC** infrastructure for high availability.
+
+Here is the corrected version of your journal entry. I have focused on fixing spelling, punctuation, and grammar while keeping your original sentence structure and voice intact.
+
+## DAY 13
+
+- The most anticipated day of my internship; today, I got the opportunity to visit the server room (**EXCITED**).
+- Since childhood, server rooms have been the most fascinating rooms that we always wanted to visit.
+- This is my second server room visit, and the first one **was** at my college.
+- The Database **systems**, SAN storage, **and** Tape Library all **blew** my mind.
+- This is the first time I have seen someone explaining these complicated things **in such detail** and **making it** beginner-friendly.
+- I can't disclose the whole visit here; I'll share the detailed **observations** of **the** server room in the Internship Report.
+
+---
+
+Simply Unforgettable and Eye-opening Internship. So glad to share the progress of my first ever internship.
+
+EOF
