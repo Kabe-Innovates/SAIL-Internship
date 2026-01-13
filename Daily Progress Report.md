@@ -50,33 +50,39 @@
 ## Day 6
 
 - On Day 6, me and Saravana Pandian Sir were **discussed** C&IT. Today I felt confident because I **knew** the basics and foundations **of** what we **were going to** talk **about** today.
-    
 - We **discussed** the activities and facilities of the C&IT dept.
-    
 - On Day 6, the talk was mostly **technical**; we often discussed **from a** technical perspective rather than just theoretically understanding what is what.
-    
 - This talk mainly **focused** on the various sectors involved in the activities and facilities of the C&IT dept, i.e., **Payroll** Systems, Financial Accounting, Sales Accounting, and Material Management **Systems**.
-    
 
 ### Outcome of Day 5 & 6 Talk
 
 - Gained real-time industry **interaction** exposure.
-    
 - Learnt about various systems like **Payroll**, Material Management, etc.
-    
 - Mainly - What if computation was not there in **these kinds** of industries? (Leads to lack of consistency, eventually affects productivity, and hence **affects the profit**).
-    
 - More than profit, the customer's trust may **break** if we fail to be consistent.
+
+## Day 7
+- Unlike all other days, on Day 7, I saw what I read in books for the first time **IRL**.
+- Today, I got the opportunity to interact with the Network Manager of SSP.
+- A subject **about** which I **had** the most questions while studying is Computer Networks. Back in my 2nd Semester when I enrolled **in** the subject "COMPUTER NETWORKS," I **thought** it would be about LANs, Modems, and switches.
+- But while studying it, I **had** various questions about it: How **does** this protocol work? How is it connected? Why were architectures followed while connecting the nodes?
+- Similarly, while talking to him, I raised various questions **to** which I failed to find **answers** back then.
+- He explained every networking **concept** clearly; we both revised the basic networking principles first before the conversation.
+- He explained **to** me the local area network topology of SSP and the architecture they were following.
+- This conversation enabled me to understand:
+    1. How to manage 1000s of computers/nodes under one network.
+    2. How to provide security for an industry network.
+
+## Day 8, 9, 10 & 11
+- Documenting jobs and gathering all backlogs
+- Holidays due to official reasons
+- Day 11(Sunday - Holiday)
 
 ## Yet to be completed
 ```markdown
-Day 7
-- Talk with Network Manager
-Day 8, 9 & 10
-- Documenting jobs and gathering all backlogs
-- Holidays due to official reasons
-Day 11(Sunday - Holiday)
-
 Day 12
 - Material Management System - A Talk
+  
+Day 13
+- Server Room Visit (OwO)
 ```
